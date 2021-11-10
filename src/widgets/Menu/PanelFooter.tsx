@@ -110,9 +110,7 @@ const PanelFooter: React.FC<Props> = ({
           })}
         </Flex>
       </SocialEntry>
-      <SettingsEntry>
-      
-      </SettingsEntry>
+    
     </Container>
   );
 };
