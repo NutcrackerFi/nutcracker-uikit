@@ -27,3 +27,4 @@ export { default as VaultsIcon } from "./Vaults";
 export { default as EggHouseIcon } from "./EggHouse";
 export { default as NutcrackerIcon } from "./Nutcracker";
 export { default as NutcrackerbIcon } from "./Nutcrackerb";
+export { default as BridgeIcon } from "./Bridge";
